@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 1440px
+    height: 960px
+    top: -506px
+    left: -673px
+    border-radius: 44px
+    background: #FCFDFF;
+}
+.box {
+    margin-top: 50px;
+    width: 360px
+    height: 517px
+    top: 221px
+    left: 140px
+    border-radius: 8px
+    border: 1px
+    
+    
+}
+h1 {
+    width: 238px
+    height: 48px
+    //styleName: Headline;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+h6 {
+    width: 341px
+    height: 24px
+    //styleName: Text 1;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.form-group {
+    position: relative;
+    width: Hug (360px)
+    height: Hug (72px)
+    top: 357px
+    left: 140px
+    gap: 8px
+}
+.img {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: -27px;
+    
+}
+.between{
+    display: flex;
+    justify-content: space-between;
+}
+.forg {
+    //styleName: Text 2;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+ 
+}
+.registr {
+    margin-top: 150px;
+}
+.pteg {
+    margin-top: 250px;
+}
